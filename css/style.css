@@ -7,3 +7,18 @@
 html, body, .container{
   height: 100%;
 }
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gallery{
+  display: flex;
+  width: 1000px;
+  height: 450px;
+  background: black;
+  border; 2px solid black;
+  border-radius: 10px;
+}
