@@ -15,10 +15,29 @@ html, body, .container{
 }
 
 .gallery{
+  position: relative;
   display: flex;
   width: 1000px;
   height: 450px;
   background: black;
   border; 2px solid black;
   border-radius: 10px;
+}
+
+.caption-content {
+  background: rgba(0,0,0,0.6);
+  width: 800px;
+  height: 100px;
+  position: absolute;
+  bottom: 0;
+}
+
+.caption{
+  font-size: 42px;
+  color: white;
+  padding:10px;
+}
+
+.info{
+  padding: 0 10px;
 }
