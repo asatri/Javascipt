@@ -16,3 +16,9 @@ function initGallery() {
 
 
 };
+
+function changeImage(event) {
+	var target = event.currentTarget;
+	var index = target.getAttribute('data-index');
+	loadImage(index);
+};
