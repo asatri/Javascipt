@@ -1,4 +1,53 @@
 var images = [
-
+  {
+    url: "img_01.png"
+    caption: "This is a caption"
+    info: "This is info"
+  },
+  {
+    url: "img_02.png"
+    caption: "This is a caption"
+    info: "This is info"
+  },
+  {
+    url: "img_03.png"
+    caption: "This is a caption"
+    info: "This is info"
+  },
+  {
+    url: "img_04.png"
+    caption: "This is a caption"
+    info: "This is info"
+  },
+  {
+    url: "img_05.png"
+    caption: "This is a caption"
+    info: "This is info"
+  },
+  {
+    url: "thumb_img_01.png"
+    caption: "This is a caption"
+    info: "This is info"
+  },
+  {
+    url: "thumb_img_02.png"
+    caption: "This is a caption"
+    info: "This is info"
+  },
+  {
+    url: "thumb_img_03.png"
+    caption: "This is a caption"
+    info: "This is info"
+  },
+  {
+    url: "thumb_img_04.png"
+    caption: "This is a caption"
+    info: "This is info"
+  },
+  {
+    url: "thumb_img_05.png"
+    caption: "This is a caption"
+    info: "This is info"
+  },
 
 ]
