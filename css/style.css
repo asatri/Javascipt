@@ -31,6 +31,9 @@ html, body, .container{
   height: 100px;
   position: absolute;
   bottom: -100px;
+  -moz-transition: all 0.3s ease 0s;
+  -web-transition: all 0.3s ease 0s;
+  transition: all 0.3s ease 0s;
 
 }
 
@@ -51,6 +54,11 @@ html, body, .container{
   padding-top: 1px;
   opacity: 0.6;
   cursor: pointer;
+
+-moz-transition: opacity 0.3s ease 0s;
+-web-transition: opacity 0.3s ease 0s;
+transition: opacity 0.3s ease 0s;
+
 }
 
 .thumbnails img:hover{
