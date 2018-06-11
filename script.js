@@ -4,6 +4,9 @@ var info = document.getElementById('info');
 var thumbnails = document.getElementById('thumbnails');
 
 function initGallery() {
+
+	loadImage(0);
+	
 	for(var i = 0; i < images.length; i++) {
 		var image = images[i];
 		var img = document.createElement('img');
