@@ -32,3 +32,6 @@ function loadImage(index) {
 	caption.textContent = image.caption;
 	info.textContent = image.info;
 };
+
+
+initGallery();
