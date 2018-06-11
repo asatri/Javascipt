@@ -1,22 +1,22 @@
 var images = [
   {
     url: "img_1.jpg",
-    caption: "This is a caption",
-    info: "This is info",
+    caption: "This is a caption-1",
+    info: "This is info-1",
   },
   {
     url: "img_2.jpg",
-    caption: "This is a caption",
-    info: "This is info",
+    caption: "This is a caption-2",
+    info: "This is info-2",
   },
   {
     url: "img_3.jpg",
-    caption: "This is a caption",
-    info: "This is info",
+    caption: "This is a caption-3",
+    info: "This is info-3",
   },
   {
     url: "img_4.jpg",
-    caption: "This is a caption",
-    info: "This is info",
+    caption: "This is a caption-4",
+    info: "This is info-1",
   },
 ];
