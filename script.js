@@ -22,3 +22,10 @@ function changeImage(event) {
 	var index = target.getAttribute('data-index');
 	loadImage(index);
 };
+
+function loadImage(index) {
+	var image = images[index];
+	screen.src = 'images/' + image.url;
+	caption.textContent = image.caption;
+	info.textContent = image.info;
+};
