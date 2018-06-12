@@ -1,22 +1,22 @@
 var images = [
   {
     url: "img_1.jpg",
-    caption: "This is a caption-1",
-    info: "This is info-1",
+    caption: "Donate Water",
+    info: "Kenya's natural water resources do not provide adequate delivery of water to the various regions of the country. ",
   },
   {
     url: "img_2.jpg",
-    caption: "This is a caption-2",
-    info: "This is info-2",
+    caption: "Give Life",
+    info: "783 MILLION PEOPLE DO NOT HAVE ACCESS TO CLEAN AND SAFE WATER.",
   },
   {
     url: "img_3.jpg",
-    caption: "This is a caption-3",
-    info: "This is info-3",
+    caption: "Save the Children ",
+    info: "85% of all diseases in African children under 5 are caused by water-borne illnesses",
   },
   {
     url: "img_4.jpg",
-    caption: "This is a caption-4",
-    info: "This is info-1",
+    caption: "Donate $1",
+    info: "Give life",
   },
 ];
